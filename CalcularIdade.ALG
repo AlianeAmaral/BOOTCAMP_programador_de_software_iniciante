@@ -9,5 +9,5 @@ Inicio
       Leia(AnoNascimento)
       
       Resultado <- AnoAtual - AnoNascimento
-      Escreva("Sua idade é: ", Resultado)
+      Escreva("Sua idade Ã©: ", Resultado) 
 Fimalgoritmo
