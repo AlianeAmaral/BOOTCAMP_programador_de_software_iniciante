@@ -11,7 +11,7 @@ Sistema apresenta a idade do usuário, com base no ano atual e o ano do seu nasc
 # AprovacaoAluno.ALG
 Sistema apresenta o status final do aluno, com base na média de três notas informadas.
 
-/ Aprendizado: Operadores para cálculo de variáveis, estrutura de decisão/condicional.
+/ Aprendizado: Operadores para cálculo de variáveis, estrutura condicional (se/senão).
 
 
 
