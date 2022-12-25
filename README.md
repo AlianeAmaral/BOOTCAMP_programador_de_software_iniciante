@@ -8,6 +8,12 @@ Sistema apresenta a idade do usuário, com base no ano atual e o ano do seu nasc
 
 / Aprendizado: O que são variáveis, entrada e saída de dados.
 
+# AprovacaoAluno.ALG
+Sistema apresenta o status final do aluno, com base na média de três notas informadas.
+
+/ Aprendizado: Operadores para cálculo de variáveis, estrutura de decisão/condicional.
+
+
 
 
 
