@@ -6,7 +6,7 @@ Linguagem: Portugol / IDE: VisuALG.
 # CalcularIdade.ALG
 Sistema apresenta a idade do usuário, com base no ano atual e o ano do seu nascimento.
 
-/ Aprendizado: O que são variáveis, entrada e saída de dados.
+/ Aprendizado: O que são variáveis, tipos de variáveis, entrada e saída de dados.
 
 # AprovacaoAluno.ALG
 Sistema apresenta o status final do aluno, com base na média de três notas informadas.
