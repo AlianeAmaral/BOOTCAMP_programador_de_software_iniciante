@@ -2,13 +2,13 @@ Algoritmo "AprovacaoAluno"
 Var
    Prova1, Prova2, Trabalho1, NotaFinal: Real
 Inicio
-      Escreva("Digite a nota da 1ª Prova (com vírgula): ")
+      Escreva("Digite a nota da 1Âª Prova (com vÃ­rgula): ")
       Leia(Prova1)
       
-      Escreva("Digite a nota da 2ª Prova (com vírgula): ")
+      Escreva("Digite a nota da 2Âª Prova (com vÃ­rgula): ")
       Leia(Prova2)
       
-      Escreva("Digite a nota do Trabalho Final (com vírgula): ")
+      Escreva("Digite a nota do Trabalho Final (com vÃ­rgula): ")
       Leia(Trabalho1)
       
       NotaFinal<-(Prova1+Prova2+Trabalho1/3)
@@ -17,7 +17,7 @@ Inicio
          Escreva("Status Final do Aluno: Aprovado")
       Senao
          Se NotaFinal >= 4 Entao
-            Escreva("Status Final do Aluno: Recuperação")
+            Escreva("Status Final do Aluno: RecuperaÃ§Ã£o")
          Senao
             Escreva("Status Final do Aluno: Reprovado")
          FimSe
