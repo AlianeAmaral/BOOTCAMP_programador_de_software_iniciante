@@ -14,9 +14,9 @@ Inicio
    Procedimento VerificarAprovacao(Aluno: Caractere; Media: Real)
    Inicio
       Se Media >= 6 Entao
-         Escreva(Aluno, " teve média de ", Media, " e foi aprovado")
+         Escreva(Aluno, " teve mÃ©dia de ", Media, " e foi aprovado")
       Senao
-         Escreva(Aluno, " teve média de ", Media, " e foi reprovado")
+         Escreva(Aluno, " teve mÃ©dia de ", Media, " e foi reprovado")
       FimSe
    FimProcedimento
    
@@ -33,4 +33,4 @@ Inicio
    
    Media <- CalculoMediaNotas(NotaA, NotaB, NotaC, NotaD)
    VerificarAprovacao(Aluno, Media)
-Fimalgoritmo
+Fimalgoritmo 
