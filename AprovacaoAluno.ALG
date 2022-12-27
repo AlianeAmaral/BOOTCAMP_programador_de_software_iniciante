@@ -21,5 +21,5 @@ Inicio
          Senao
             Escreva("Status Final do Aluno: Reprovado")
          FimSe
-      FimSe
+      FimSe 
 Fimalgoritmo
