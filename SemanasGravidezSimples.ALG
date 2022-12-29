@@ -1,17 +1,16 @@
 Algoritmo "SemanasGravidezSimples"
 Var
    Semanas, Meses, SemanaResto: Real
-   
 Inicio
-      Escreval("A gr·vida est· de quantas semanas? ")
+      Escreval("A gr√°vida est√° de quantas semanas? ")
       Leia(Semanas)
       
       Meses <- (Semanas / 4)
       SemanaResto <- (Meses * 4)
       
       Se Meses >= 1 Entao
-         Escreval("A gr·vida est· de", Meses, " meses/mÍs.")
+         Escreval("A gr√°vida est√° de", Meses, " meses/m√™s.")
       Senao
-         Escreval("A gr·vida est· de", SemanaResto, " semana(s).")
+         Escreval("A gr√°vida est√° de", SemanaResto, " semana(s).")
       FimSe
-Fimalgoritmo
+Fimalgoritmo 
