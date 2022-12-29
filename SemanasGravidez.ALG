@@ -1,21 +1,21 @@
-Algoritmo "TempoGravidez"
+Algoritmo "SemanasGravidez"
 Var
    Semanas, Meses, SemanaResto: Real
    
 Inicio
-      Escreval("A grávida está de quantas semanas? ")
+      Escreval("A grÃ¡vida estÃ¡ de quantas semanas? ")
       Leia(Semanas)
       
       Meses <- (Semanas / 4)
       SemanaResto <- (Meses * 4)
       
       Se Meses > 1 Entao
-         Escreval("A grávida está de", Meses, " meses.")
+         Escreval("A grÃ¡vida estÃ¡ de", Meses, " meses.")
       Senao Meses = 1
-         Escreval("A grávida está de", Meses, " mês.")
+         Escreval("A grÃ¡vida estÃ¡ de", Meses, " mÃªs.")
 
          Se Meses < 1 Entao
-             Escreval("A grávida está de", SemanaResto, " semana(s).")
+             Escreval("A grÃ¡vida estÃ¡ de", SemanaResto, " semana(s).")
 
       FimSe
 Fimalgoritmo
