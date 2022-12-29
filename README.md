@@ -11,8 +11,6 @@ Sistema apresenta o status final do aluno com base na média de três notas info
 
 / Aprendizado: Operadores para cálculo de variáveis, estrutura condicional (se/senão). Linguagem: Portugol / IDE: VisuALG.
 
-# FuncaoProcedimento.ALG
-
 
 
 
