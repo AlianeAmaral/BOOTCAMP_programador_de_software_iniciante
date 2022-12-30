@@ -8,7 +8,7 @@ Inicio
       Meses <- (Semanas / 4)
       SemanaResto <- (Meses * 4)
       
-      Se Meses >= 1 Entao
+      Se Meses > 1 Entao
          Escreval("A grávida está de", Meses, " meses.")
       FimSe
       Se Meses = 1 Entao
