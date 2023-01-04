@@ -4,60 +4,42 @@ Var
    Num1, Num2, Resultado: Real
 Inicio
 
-      Escreval("Ol·! Digite qual a operaÁ„o desejada: ")
-      Escreval("*(SOMA, DIVIS√O, MULTIPLICA«√O OU SUBTRA«√O)* ")
+      Escreval("Ol√°! Digite qual a opera√ß√£o desejada: ")
+      Escreval("*(SOMA, DIVIS√ÉO, MULTIPLICA√á√ÉO OU SUBTRA√á√ÉO)* ")
       Leia (Operacao)
       
-      Se Operacao = "SOMA" Entao
-      Escreval("Digite o primeiro n˙mero a ser somado: ")
+      Escreval("Digite o primeiro n√∫mero da opera√ß√£o: ")
       Leia (Num1)
       
-      Escreval("Digite o segundo n˙mero a ser somado: ")
+      Escreval("Digite o segundo n√∫mero da opera√ß√£o: ")
       Leia (Num2)
       
+      Se Operacao = "SOMA" Entao
       Resultado <- (Num1) + (Num2)
-      Escreval("O resultado da sua operaÁ„o " , Operacao, " È:", Resultado)
+      Escreval("O resultado da sua opera√ß√£o " , Operacao, " √©:", Resultado)
 
           Senao
-          Se Operacao = "DIVIS√O" Entao
-          Escreval("Digite o primeiro n˙mero a ser dividido: ")
-          Leia (Num1)
-
-          Escreval("Digite o segundo n˙mero para dividir o primeiro n˙mero: ")
-          Leia (Num2)
-      
+          Se Operacao = "DIVIS√ÉO" Entao
           Resultado <- (Num1) / (Num2)
-          Escreval("O resultado da sua operaÁ„o " , Operacao, " È:", Resultado)
+          Escreval("O resultado da sua opera√ß√£o " , Operacao, " √©:", Resultado)
       
               Senao
-              Se Operacao = "MULTIPLICA«√O" Entao
-              Escreval("Digite o primeiro n˙mero a ser multiplicado: ")
-              Leia (Num1)
-
-              Escreval("Digite o segundo n˙mero a ser multiplicado: ")
-              Leia (Num2)
-
+              Se Operacao = "MULTIPLICA√á√ÉO" Entao
               Resultado <- (Num1) * (Num2)
-              Escreval("O resultado sua operaÁ„o " , Operacao, " È:", Resultado)
+              Escreval("O resultado sua opera√ß√£o " , Operacao, " √©:", Resultado)
 
                   Senao
-                  Se Operacao = "SUBTRA«√O" Entao
-                  Escreval("Digite o primeiro n˙mero a ser subtraÌdo: ")
-                  Leia (Num1)
-
-                  Escreval("Digite o segundo n˙mero que ir· subtrair o primeiro n˙mero: ")
-                  Leia (Num2)
-
+                  Se Operacao = "SUBTRA√á√ÉO" Entao
                   Resultado <- (Num1) - (Num2)
-                  Escreval("O resultado da sua operaÁ„o " , Operacao, " È:", Resultado)
+                  Escreval("O resultado da sua opera√ß√£o " , Operacao, " √©:", Resultado)
 
       Senao
-      Escreval("OPS! Essa operaÁ„o n„o È v·lida.")
-      Escreval("Digite SOMA, DIVIS√O, MULTIPLICA«√O OU SUBTRA«√O.")
-      Escreval("Obs: Digitar a operaÁ„o em letras maiusc˙las e acentuadas.")
+      Escreval("OPS! Essa opera√ß√£o n√£o √© v√°lida.")
+      Escreval("Digite SOMA, DIVIS√ÉO, MULTIPLICA√á√ÉO OU SUBTRA√á√ÉO.")
+      Escreval("Obs: Digitar a opera√ß√£o em letras maiusc√∫las e acentuadas.")
       
-      FimSe
-      FimSe
-      FimSe
+                  FimSe
+              FimSe
+          FimSe
       FimSe
 Fimalgoritmo
