@@ -16,7 +16,7 @@ Inicio
          Leia (Num2)
       Senao
          Escreval("OPS! Essa operação não é válida.")
-         Escreval("Digite SOMA, DIVISÃO, MULTIPLICAÇÃO OU SUBTRAÇÃO.")
+         Escreval("Digite SOMA, DIVISÃO, MULTIPLICAÇÃO ou SUBTRAÇÃO.")
          Escreval("Obs: Digitar a operação em letras maiuscúlas e acentuadas.")
       FimSe
       
