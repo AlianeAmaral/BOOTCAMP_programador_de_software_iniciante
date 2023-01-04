@@ -1,9 +1,8 @@
-Algoritmo "OperacoesMatematicas"
+Algoritmo "Operacoes-Se-SenaoSe-Senao"
 Var
    Operacao: Caractere
    Num1, Num2, Resultado: Real
 Inicio
-
       Escreval("Olá! Digite qual a operação desejada: ")
       Escreval("*(SOMA, DIVISÃO, MULTIPLICAÇÃO OU SUBTRAÇÃO)* ")
       Leia (Operacao)
