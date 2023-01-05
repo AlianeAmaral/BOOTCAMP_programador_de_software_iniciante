@@ -1,4 +1,4 @@
-Algoritmo "OperacaoEscolha-PesoBagagem"
+Algoritmo "PesoBagagem - OperacaoEscolhaSe"
 Var
    Franquia: Caractere
    Peso: Inteiro
@@ -12,23 +12,23 @@ Inicio
    Escolha Franquia
       Caso = "SIM"
          Se Peso <= 23 Entao
-             Escreval("Bagagem OK. Categoria até 23kg.")
+             Escreval("Bagagem OK. Categoria atÃ© 23kg.")
       
          Senao Se Peso > 23
-             Escreval("Passageiro com franquia, porém, com excesso de bagagem.")
-             Escreval("Categoria até 32kg: Valor a pagar: R$ XX,XX")
+             Escreval("Passageiro com franquia, porÃ©m, com excesso de bagagem.")
+             Escreval("Categoria atÃ© 32kg: Valor a pagar: R$ XX,XX")
          FimSe
       
-      Caso = "NÃO"
+      Caso = "NÃƒO"
          Se Peso <= 23 Entao
-             Escreval("SEM FRANQUIA. Bagagem até 23kg.")
+             Escreval("SEM FRANQUIA. Bagagem atÃ© 23kg.")
              Escreval("Valor a pagar: R$ XX,XX")
       
          Senao Se Peso > 23
              Escreval("SEM FRANQUIA e com EXCESSO DE BAGAGEM superior a 23kg.")
-             Escreval("Opções disponíveis: ")
-             Escreval("Bagagem até 23kg: R$ XX,XX.")
-             Escreval("Bagagem até 32kg: R$ XX,XX.")
+             Escreval("OpÃ§Ãµes disponÃ­veis: ")
+             Escreval("Bagagem atÃ© 23kg: R$ XX,XX.")
+             Escreval("Bagagem atÃ© 32kg: R$ XX,XX.")
          FimSe
    FimEscolha
 Fimalgoritmo
