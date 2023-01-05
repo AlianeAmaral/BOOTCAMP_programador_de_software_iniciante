@@ -1,4 +1,4 @@
-Algoritmo "Operacoes-Se-SenaoSe-Senao"
+Algoritmo "Calculadora"
 Var
    Operacao: Caractere
    Num1, Num2, Resultado: Real
