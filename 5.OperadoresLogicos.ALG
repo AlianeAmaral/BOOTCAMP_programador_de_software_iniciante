@@ -7,19 +7,19 @@ Inicio
   TrabalhoAmanha <- FALSO
   
   Se TrabalhoHoje E TrabalhoAmanha Entao
-     Escreval("Nós trabalhamos hoje e vamos trabalhar amanhã.")
+     Escreval("NÃ³s trabalhamos hoje e vamos trabalhar amanhÃ£.")
   FimSe
 
   Se TrabalhoHoje OU TrabalhoAmanha Entao
-     Escreval("Vamos trabalhar hoje ou amanhã.")
+     Escreval("Vamos trabalhar hoje ou amanhÃ£.")
   FimSe
   
   Se Nao TrabalhoHoje Entao
-     Escreval("Não vamos trabalhar hoje.")
+     Escreval("NÃ£o vamos trabalhar hoje.")
   FimSe
   
   Se Nao TrabalhoAmanha Entao
-     Escreval("Não vamos trabalhar amanhã.")
+     Escreval("NÃ£o vamos trabalhar amanhÃ£.")
   FimSe
   
 Fimalgoritmo
