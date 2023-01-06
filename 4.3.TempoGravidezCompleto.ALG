@@ -1,4 +1,4 @@
-Algoritmo "TempoGravidezCOMPLETO"
+Algoritmo "TempoGravidezCompleto"
 Var
    Resultado,Semanas, SemanaResto, Meses: Real
 Inicio
