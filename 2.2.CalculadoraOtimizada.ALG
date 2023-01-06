@@ -32,8 +32,8 @@ Inicio
       Escreval("Digite SOMA, DIVISÃO, MULTIPLICAÇÃO OU SUBTRAÇÃO.")
       Escreval("Obs: Digitar a operação em letras maiuscúlas e acentuadas.")
 
-      FimSe
-      FimSe
-      FimSe
+                  FimSe
+              FimSe
+          FimSe
       FimSe
 Fimalgoritmo
