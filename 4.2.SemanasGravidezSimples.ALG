@@ -1,4 +1,4 @@
-Algoritmo "TempoGravidez"
+Algoritmo "SemanasGravidezSimplesz"
 Var
    Semanas, Meses, SemanaResto: Real 
 Inicio
