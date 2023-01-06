@@ -5,10 +5,10 @@ Var
 Inicio
 // IMC: peso / altura * altura
 
-   Escreval("Qual é o seu peso?")
+   Escreval("Qual Ã© o seu peso?")
    Leia(Peso)
    
-   Escreval("Qual é sua altura?")
+   Escreval("Qual Ã© sua altura?")
    Leia(Altura)
    
    Imc <- Peso / (Altura * Altura)
@@ -37,7 +37,7 @@ Inicio
       FimSe
    FimSe
    
-   Escreval("O seu IMC é: ", IMC)
+   Escreval("O seu IMC Ã©: ", IMC)
    Escreval("Resultado do IMC: ", Resultado)
 
 Fimalgoritmo
