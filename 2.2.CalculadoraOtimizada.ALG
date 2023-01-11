@@ -1,4 +1,4 @@
-Algoritmo "CalculadoraOtimizada"
+Algoritmo "2.2.CalculadoraOtimizada"
 Var
    Operacao: Caractere
    Num1, Num2, Resultado: Real
