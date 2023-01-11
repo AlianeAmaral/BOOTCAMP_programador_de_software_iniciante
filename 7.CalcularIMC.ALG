@@ -1,4 +1,4 @@
-Algoritmo "CalcularIMC"
+Algoritmo "7.CalcularIMC"
 Var
    Peso, Altura, Imc: Real
    Resultado: Caractere
