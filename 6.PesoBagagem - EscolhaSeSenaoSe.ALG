@@ -1,4 +1,4 @@
-Algoritmo "PesoBagagem - OperacaoEscolhaSe"
+Algoritmo "6.PesoBagagem - EscolhaSeSenaoSe"
 Var
    Franquia: Caractere
    Peso: Inteiro
