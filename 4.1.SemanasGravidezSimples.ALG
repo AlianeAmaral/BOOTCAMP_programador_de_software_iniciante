@@ -1,4 +1,4 @@
-Algoritmo "SemanasGravidezSimples"
+Algoritmo "4.1.SemanasGravidezSimples"
 Var
    Semanas, Meses, SemanaResto: Real
 Inicio
