@@ -37,7 +37,7 @@
 
 <h6>Sistema apresenta um template para utilizar valores lógicos, valores booleanos: VERDADEIRO/FALSO.</h6>
 
-<h4>📚 6.PesoBagagem - EscolhaSe.ALG</h4>
+<h4>📚 6.PesoBagagem - EscolhaSeSenaoSe.ALG</h4>
 
 <h6>Sistema calcula se passageiro possui ou não franquia de bagagem e se o peso está dentro da franquia 23kg ou 32kg. Exercício utilizando Escolha/SeSenao.</h6>
 
