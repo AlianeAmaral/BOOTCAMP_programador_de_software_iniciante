@@ -1,4 +1,4 @@
-Algoritmo "CalculoIdade"
+Algoritmo "3.CalcularIdade"
 Var
 AnoAtual, AnoNascimento, Resultado: Inteiro
 Inicio
