@@ -1,4 +1,4 @@
-Algoritmo "Calculadora"
+Algoritmo "2.1.Calculadora"
 Var
    Operacao: Caractere
    Num1, Num2, Resultado: Real
