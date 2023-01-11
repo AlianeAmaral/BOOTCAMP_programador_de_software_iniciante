@@ -1,4 +1,4 @@
-Algoritmo "OperadoresLogicos"
+Algoritmo "5.OperadoresLogicos"
 Var
    TrabalhoHoje, TrabalhoAmanha: Logico
 Inicio
