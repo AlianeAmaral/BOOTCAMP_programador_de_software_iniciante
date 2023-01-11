@@ -8,6 +8,12 @@ Inicio
       Escreval("*(SOMA, DIVISÃO, MULTIPLICAÇÃO OU SUBTRAÇÃO)* ")
       Leia (Operacao)
 
+      Escreval("Digite o primeiro número: ")
+      Leia(Num1)
+      
+      Escreval("Digite o segundo número: ")
+      Leia(Num2)
+      
       Se Operacao = "SOMA" Entao
       Resultado <- (Num1) + (Num2)
       Escreval("O resultado da sua operação " , Operacao, " é:", Resultado)
