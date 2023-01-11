@@ -1,4 +1,4 @@
-Algoritmo "AprovacaoAluno"
+Algoritmo "1.AprovacaoAluno"
 Var
    Prova1, Prova2, Trabalho1, NotaFinal: Real
 Inicio
