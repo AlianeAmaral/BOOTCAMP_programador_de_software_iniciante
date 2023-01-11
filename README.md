@@ -25,7 +25,7 @@
 
 <h6>Sistema coleta quantas semanas de gravidez e apresenta em meses ou semanas (se menor que um mês). Não especifica plural e singular.</h6>
 
-<h4>📚 4.2.SemanasGravidezSimples.ALG</h4>
+<h4>📚 4.2.SemanasGravidezPluralSingular.ALG</h4>
 
 <h6>Sistema coleta quantas semanas de gravidez e apresenta em meses ou semanas (se menor que um mês). Especifica plural e singular dos meses e mensagem de alerta para acima de 9 meses.</h6>
 
