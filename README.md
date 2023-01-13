@@ -48,3 +48,7 @@
 <h4>📚 8.BuscaNumero-EstruturaRepetitiva.ALG</h4>
 
 <h6>Sistema coleta 5 números para criar em uma lista/vetor, depois solicita um número para busca. É informado se o número da busca existe ou não na lista. Exercício utilizando a estrutura de repetição "PARA" e opção "Interrompa".</h6>
+
+<h4>📚 9.AdivinhacaoNumero-EstruturaRepetitiva.ALG</h4>
+
+<h6>Sistema dá 3 tentativas para o usuário tentar adivinhar um número de 0 até 10. Quando incorreta, o sistema fornece dica dizendo se o número é maior ou menor do que número que o usuário tentou. Exercício utilizando a estrutura de repetição "ENQUANTO" e opção "Interrompa".</h6>
