@@ -44,3 +44,7 @@
 <h4>📚 7.CalcularIMC.ALG</h4>
 
 <h6>Sistema calcula o IMC, coletando a altura e peso do usuário. Exercício utilizando Se/SenaoSe/Senao.</h6>
+
+<h4>📚 8.BuscaNumero-EstruturaRepetitiva.ALG</h4>
+
+<h6>Sistema coleta 5 números para criar em uma lista vetor, depois solicita um número para busca. É informado se o número da busca existe ou não na lista. Exercício para aplicação da estrutura de repetição "PARA".</h6>
