@@ -57,3 +57,6 @@
 
 <h6>Sistema calcula a média de notas de um aluno e se ele foi aprovado. Exercício para entendimento do que é função, procedimento e suas sintaxes.</h6>
 
+<h4>📚 11.Multiplos3e5.ALG</h4>
+
+<h6>Enunciado: Se listarmos todos os números naturais menores que 10 e que são múltiplos de 3 ou 5, obtemos 3, 5, 6 e 9. A soma desses múltiplos é 23. Sistema apresenta o resultado da soma de todos os múltiplos de 3 ou 5 abaixo de 1.000.</h6>
