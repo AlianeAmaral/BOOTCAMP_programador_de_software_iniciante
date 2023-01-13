@@ -9,8 +9,7 @@ Inicio
    Enquanto NumeroTentativas < 3 Faca
             Escreval("Adivinhe um número de 0 até 10: ")
             Leia(NumeroDigitado)
-            
-            NumeroTentativas <- NumeroTentativas + 1
+            NumeroTentativas <- NumeroTentativas + 1 //Adiciona +1 porque após executar as condições abaixo, a linha 9 até 12 irá se repetir até que NumeroTentativas = 3 e entre na condição da linha 18.
             
             Se NumeroDigitado = NumeroSorteado Entao
                Escreval("Parabéns! Você acertou! :D")
@@ -33,7 +32,7 @@ Inicio
 Fimalgoritmo
 
 // *** PASSO A PASSO LÓGICO ***
-//
+
 //1 - Gerar um número aleatório de 0 até 10.
 //2 - Inicializar o número de tentativas (3).
 //3 - Pedir que o jogador tente adivinhar o número.
