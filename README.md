@@ -47,4 +47,4 @@
 
 <h4>📚 8.BuscaNumero-EstruturaRepetitiva.ALG</h4>
 
-<h6>Sistema coleta 5 números para criar em uma lista vetor, depois solicita um número para busca. É informado se o número da busca existe ou não na lista. Exercício para aplicação da estrutura de repetição "PARA".</h6>
+<h6>Sistema coleta 5 números para criar em uma lista/vetor, depois solicita um número para busca. É informado se o número da busca existe ou não na lista. Exercício para aplicação da estrutura de repetição "PARA" e opção "Interrompa".</h6>
