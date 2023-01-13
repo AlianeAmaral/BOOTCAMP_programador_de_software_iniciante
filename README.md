@@ -52,3 +52,8 @@
 <h4>📚 9.AdivinhacaoNumero-EstruturaRepetitiva.ALG</h4>
 
 <h6>Sistema dá 3 tentativas para o usuário tentar adivinhar um número de 0 até 10. Quando incorreta, o sistema fornece dica dizendo se o número é maior ou menor do que número que o usuário tentou. Exercício utilizando a estrutura de repetição "ENQUANTO" e opção "Interrompa".</h6>
+
+<h4>📚 10.FuncaoProcedimento.ALG</h4>
+
+<h6>Sistema calcula a média de notas de um aluno e se ele foi aprovado. Exercício para entendimento do que é função, procedimento e suas sintaxes.</h6>
+
