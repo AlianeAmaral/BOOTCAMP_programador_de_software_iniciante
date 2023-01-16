@@ -17,15 +17,15 @@
 
 <h6>Sistema simula uma calculadora, questiona qual operação você deseja fazer, sendo soma, subtração, multiplicação ou divisão. Esse código utiliza a mesma pergunta genérica para qualquer operação, tornando o código menor.</h6>
 
-<h4>📚 3.CalcularIdade.ALG</h4>
+[📚 3.CalcularIdade.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/3.CalcularIdade.ALG)
 
 <h6>Sistema coleta o ano atual e ano de nascimento do usuário, apresentando a sua idade atual.</h6>
 
-<h4>📚 4.1.SemanasGravidezSimples.ALG</h4>
+[📚 4.1.SemanasGravidezSimples.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/4.1.SemanasGravidezSimples.ALG)
 
 <h6>Sistema coleta quantas semanas de gravidez e apresenta em meses ou semanas (se menor que um mês). Não especifica plural e singular.</h6>
 
-<h4>📚 4.2.SemanasGravidezPluralSingular.ALG</h4>
+[📚 4.2.SemanasGravidezPluralSingular.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/4.2.SemanasGravidezPluralSingular.ALG)
 
 <h6>Sistema coleta quantas semanas de gravidez e apresenta em meses ou semanas (se menor que um mês). Especifica plural e singular dos meses e mensagem de alerta para acima de 9 meses.</h6>
 
