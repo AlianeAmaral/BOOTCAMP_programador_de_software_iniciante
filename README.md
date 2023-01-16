@@ -13,7 +13,7 @@
 
 <h6>Sistema simula uma calculadora, questiona qual operação você deseja fazer, sendo soma, subtração, multiplicação ou divisão. Esse código utiliza uma pergunta específica para cada operação.</h6>
 
-<h4>📚 2.2.CalculadoraOtimizada.ALG</h4>
+[📚 2.2.CalculadoraOtimizada.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/2.2.CalculadoraOtimizada.ALG)
 
 <h6>Sistema simula uma calculadora, questiona qual operação você deseja fazer, sendo soma, subtração, multiplicação ou divisão. Esse código utiliza a mesma pergunta genérica para qualquer operação, tornando o código menor.</h6>
 
