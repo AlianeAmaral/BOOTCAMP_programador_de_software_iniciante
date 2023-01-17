@@ -27,21 +27,22 @@
       <h6>Sistema coleta quantas semanas de gravidez e apresenta em meses ou semanas (se menor que um mês). Não especifica plural e singular, porém, especifica quando existe meses quebrados: Exemplo: 1 mês e 2 semanas.</h6>
 
 [📚 5.OperadoresLogicos.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/5.OperadoresLogicos.ALG)
-    <h6>Sistema apresenta um template para utilizar valores lógicos, valores booleanos: VERDADEIRO/FALSO.</h6>
+      <h6>Sistema apresenta um template para utilizar valores lógicos, valores booleanos: VERDADEIRO/FALSO.</h6>
 
 [📚 6.PesoBagagem - EscolhaSeSenaoSe.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/6.PesoBagagem-EscolhaSeSenaoSe.ALG)
-    <h6>Sistema calcula se passageiro possui ou não franquia de bagagem e se o peso está dentro da franquia 23kg ou 32kg. Exercício utilizando Escolha/SeSenao.</h6>
+      <h6>Sistema calcula se passageiro possui ou não franquia de bagagem e se o peso está dentro da franquia 23kg ou 32kg. Exercício utilizando Escolha/SeSenao.</h6>
 
 [📚 7.CalcularIMC.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/7.CalcularIMC.ALG)
-    <h6>Sistema calcula o IMC, coletando a altura e peso do usuário. Exercício utilizando Se/SenaoSe/Senao.</h6>
+      <h6>Sistema calcula o IMC, coletando a altura e peso do usuário. Exercício utilizando Se/SenaoSe/Senao.</h6>
 
 [📚 8.BuscaNumero-EstruturaRepetitiva.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/8.BuscaNumero-EstruturaRepetitiva.ALG)
-    <h6>Sistema coleta 5 números para criar em uma lista/vetor, depois solicita um número para busca. É informado se o número da busca existe ou não na lista. Exercício utilizando a estrutura de repetição "PARA" e opção "Interrompa".</h6>
+      <h6>Sistema coleta 5 números para criar em uma lista/vetor, depois solicita um número para busca. É informado se o número da busca existe ou não na lista. Exercício utilizando a estrutura de repetição "PARA" e opção "Interrompa".</h6>
 
-[📚 9.AdivinhacaoNumero-EstruturaRepetitiva.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/9.AdivinhacaoNumero-EstruturaRepetitiva.ALG)<h6>Sistema dá 3 tentativas para o usuário tentar adivinhar um número de 0 até 10. Quando incorreta, o sistema fornece dica dizendo se o número é maior ou menor do que número que o usuário tentou. Exercício utilizando a estrutura de repetição "ENQUANTO" e opção "Interrompa".</h6>
+[📚 9.AdivinhacaoNumero-EstruturaRepetitiva.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/9.AdivinhacaoNumero-EstruturaRepetitiva.ALG)
+      <h6>Sistema dá 3 tentativas para o usuário tentar adivinhar um número de 0 até 10. Quando incorreta, o sistema fornece dica dizendo se o número é maior ou menor do que número que o usuário tentou. Exercício utilizando a estrutura de repetição "ENQUANTO" e opção "Interrompa".</h6>
 
-[📚 10.FuncaoProcedimento.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/10.FuncaoProcedimento.ALG)<h6>Sistema calcula a média de notas de um aluno e se ele foi aprovado. Exercício para entendimento do que é função, procedimento e suas sintaxes.</h6>
+[📚 10.FuncaoProcedimento.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/10.FuncaoProcedimento.ALG)
+      <h6>Sistema calcula a média de notas de um aluno e se ele foi aprovado. Exercício para entendimento do que é função, procedimento e suas sintaxes.</h6>
 
 [📚 11.Multiplos3e5.ALG]
-
-<h6>Se listarmos todos os números naturais menores que 10 e que são múltiplos de 3 ou 5, obtemos 3, 5, 6 e 9. A soma desses múltiplos é 23. Sistema apresenta o resultado da soma de todos os múltiplos de 3 ou 5 abaixo de 1.000.</h6>
+      <h6>Se listarmos todos os números naturais menores que 10 e que são múltiplos de 3 ou 5, obtemos 3, 5, 6 e 9. A soma desses múltiplos é 23. Sistema apresenta o resultado da soma de todos os múltiplos de 3 ou 5 abaixo de 1.000.</h6>
