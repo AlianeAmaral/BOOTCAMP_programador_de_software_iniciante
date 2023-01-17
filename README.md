@@ -5,7 +5,8 @@
 
 ### <h4 align="center"> ✅ Linguagem: PORTUGOL / IDE: VisuALG.
   
-[📚 1.AprovacaoAluno.ALG: ](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/1.AprovacaoAluno.ALG)<h6>Sistema coleta as notas de um aluno e apresenta se ele está aprovado, reprovado ou de recuperação.</h6>
+[📚 1.AprovacaoAluno.ALG: ](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/1.AprovacaoAluno.ALG)
+<h6>Sistema coleta as notas de um aluno e apresenta se ele está aprovado, reprovado ou de recuperação.</h6>
   
 [📚 2.1.Calculadora.ALG](https://github.com/AlianeAmaral/BOOTCAMP_programador_de_software_iniciante/blob/main/2.1.Calculadora.ALG)<h6>Sistema simula uma calculadora, questiona qual operação você deseja fazer, sendo soma, subtração, multiplicação ou divisão. Esse código utiliza uma pergunta específica para cada operação.</h6>
 
