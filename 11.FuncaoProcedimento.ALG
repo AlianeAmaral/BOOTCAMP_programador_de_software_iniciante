@@ -1,4 +1,4 @@
-Algoritmo "10.FuncaoProcedimento"
+Algoritmo "11.FuncaoProcedimento"
 Var
    Aluno: Caractere
    NotaA, NotaB, NotaC, NotaD, Media: Real
