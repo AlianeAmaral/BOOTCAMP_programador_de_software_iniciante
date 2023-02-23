@@ -1,8 +1,8 @@
-Algoritmo "11.TrabalhoModulo1-ConversaoRealDolar"
+Algoritmo "12.TrabalhoModulo1-ConversaoRealDolar"
 Var
 carteiraReal, cotacaoDolar, possibilidadeCompra: Real
 Inicio
-      Escreval("Qual o valor atual da cotação do dólar?")
+      Escreval("Qual o valor atual da cotaÃ§Ã£o do dÃ³lar?")
       Leia (cotacaoDolar)
       
       Escreval("Quanto que possui em reais?")
@@ -10,5 +10,5 @@ Inicio
       
       possibilidadeCompra <- carteiraReal / cotacaoDolar
       
-      Escreval("Nessa cotação, você poderá comprar: ", possibilidadeCompra, " dólares.")
+      Escreval("Nessa cotaÃ§Ã£o, vocÃª poderÃ¡ comprar: ", possibilidadeCompra, " dÃ³lares.")
 Fimalgoritmo
