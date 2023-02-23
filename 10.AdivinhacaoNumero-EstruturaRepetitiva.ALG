@@ -1,4 +1,4 @@
-Algoritmo "9.AdivinhacaoNumero-EstruturaRepetitiva"
+Algoritmo "10.AdivinhacaoNumero-EstruturaRepetitiva"
 Var
    NumeroSorteado, NumeroTentativas, NumeroDigitado: Inteiro
 
