@@ -29,6 +29,8 @@ Inicio
              Escreval("Opções disponíveis: ")
              Escreval("Bagagem até 23kg: R$ XX,XX.")
              Escreval("Bagagem até 32kg: R$ XX,XX.")
+        OutroCaso
+             Escreval("Resposta Inválida")
          FimSe
    FimEscolha
 Fimalgoritmo
