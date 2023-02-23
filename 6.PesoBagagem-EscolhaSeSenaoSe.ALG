@@ -34,3 +34,6 @@ Inicio
          FimSe
    FimEscolha
 Fimalgoritmo
+
+// O operador EscolhaCaso no Portugol é como Switch Case no Java, veja mais em: 
+// https://www.ramon.pro.br/comandos-portugol-vs-java/
