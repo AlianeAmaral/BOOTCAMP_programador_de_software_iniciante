@@ -1,7 +1,7 @@
 Algoritmo "10.AdivinhacaoNumero-EstruturaRepetitiva"
 Var
    NumeroSorteado, NumeroTentativas, NumeroDigitado: Inteiro
-
+ 
 Inicio
    NumeroSorteado <- RandI(10) //Gera número aleatório entre 0 e o número que informar nos parênteses.
    NumeroTentativas <- 0 //Pode ser ao contrário também, incrementando ou decrementando.
